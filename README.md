@@ -28,6 +28,7 @@
 
 ## 💻 Technologies  I know :
 
+<!-- Gap -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,tailwind,js,react,firebase,nodejs,express,mongodb" />
@@ -35,9 +36,12 @@
 </p>
 
 
+## 📊 GitHub Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mustafiz82&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mustafiz82&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
 
 
 
