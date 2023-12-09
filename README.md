@@ -1,5 +1,4 @@
-
-![hello](<asset/Blue, Green, and White Modern Tech Web Developer LinkedIn Banner.png>)
+![Alt text](<asset/Navy Blue Geometric Technology LinkedIn Banner.png>)
 
 <!--
 **Mustafiz82/Mustafiz82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
