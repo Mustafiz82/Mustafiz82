@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![hello](<asset/Blue, Green, and White Modern Tech Web Developer LinkedIn Banner.png>)
 
