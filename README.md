@@ -1,18 +1,21 @@
 ![Alt text](<asset/Navy Blue Geometric Technology LinkedIn Banner.png>)
 
-<!--
-**Mustafiz82/Mustafiz82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+## About Me
+- 🔭 I’m currently working on enhancing my skills in web development and exploring advanced features in React.
+- 🌱 I’m currently learning Next.js to build more efficient and scalable React applications.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- Gap -->
+
+- 🤔 I’m looking for help with staying updated on the latest industry trends and best practices in web development.
+
+<!-- Gap -->
+
+- 💬 Ask me about HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Firebase, or anything related to web development!
+- 📫 How to reach me: mustafiz8260@gmail.com
+
+
 
 
