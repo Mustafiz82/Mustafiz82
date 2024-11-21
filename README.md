@@ -38,7 +38,7 @@
 
 ## 📊 GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mustafiz&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mustafiz82&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mustafiz82&theme=react)
