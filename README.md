@@ -1,18 +1,18 @@
-![Alt text](<asset/Navy Blue Geometric Technology LinkedIn Banner.png>)
+![Alt text](<asset/banner_image.jpg>)
 
 
 
 ## About Me
-- 🔭 I’m currently working on enhancing my skills in web development and exploring advanced features in React.
-- 🌱 I’m currently learning Next.js to build more efficient and scalable React applications.
+- 🔭 I’m currently working on enhancing my skills in web development and exploring advanced features in NextJs.
+<!-- Gap -->
+- 🌱 I’m currently learning Laravel to improve my backend development skills and build full-stack applications more efficiently.
+<!-- Gap -->
+- 🚀 Future Aspirations: I'm eager to explore Web3 technologies and delve into blockchain development to create decentralized applications. 
+<!-- Gap -->
+- 💡 Fun Fact: I have a bookmark collection full of tools and resources that make frontend development a breeze!
 
 <!-- Gap -->
 
-- 🤔 I’m looking for help with staying updated on the latest industry trends and best practices in web development.
-
-<!-- Gap -->
-
-- 💬 Ask me about HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Firebase, or anything related to web development!
 - 📫 How to reach me: mustafiz8260@gmail.com
 
 
