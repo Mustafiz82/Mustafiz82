@@ -1,4 +1,4 @@
-<div style="width:100% ; min-height:100vh ; background: white">
+<div style="width:100% ; min-height:100vh ; background: black">
 
 ![Alt text](<asset/banner_image.jpg>)
 
@@ -11,10 +11,10 @@
 
 ## 🌐 Connect With Me
 
-[![Website Badge](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=WebStorm&logoColor=61CE70)](https://gausalmunir.xyz/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=61CE70)](https://www.linkedin.com/in/gausalmunirtushar)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=61CE70)](https://facebook.com/GausAlMunirTusharProfile)
-[![Mail Badge](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=61CE70)](mailto:gausalmunirtushar@gmail.com)
+[![Website Badge](https://img.shields.io/badge/Website-003300?style=for-the-badge&logo=WebStorm&logoColor=61CE70)](https://gausalmunir.xyz/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-003300?style=for-the-badge&logo=linkedin&logoColor=61CE70)](https://www.linkedin.com/in/gausalmunirtushar)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-003300?style=for-the-badge&logo=facebook&logoColor=61CE70)](https://facebook.com/GausAlMunirTusharProfile)
+[![Mail Badge](https://img.shields.io/badge/Gmail-003300?style=for-the-badge&logo=gmail&logoColor=61CE70)](mailto:gausalmunirtushar@gmail.com)
 
 
 ## 💻 Technologies  I know :
@@ -70,13 +70,13 @@
 
 
 
+## 🏆 States & Trophies
 
-
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; width: 100vw; overflow: hidden;">
+<div style="display: flex;background:red; flex-direction: column; align-items: center; justify-content: center; width: 100vw; overflow: hidden;">
   <img src="https://github-profile-trophy.vercel.app/?username=mustafiz82&theme=matrix" alt="Trophies" style="width: 100%; height: auto;"/>
- <div style="display:flex"> 
+ <div style="display:flex "> 
   <a href="https://github.com/mustafiz82">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafiz82&layout=compact&theme=github_dark&title_color=39D353&text_color=39D353&icon_color=39D353&hide_border=true&bg_color=000000" alt="Top Languages" style="width: 1/2; height: 100%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafiz82&layout=compact&theme=github_dark&title_color=39D353&text_color=39D353&icon_color=39D353&hide_border=true&bg_color=000000" alt="Top Languages" style="width: 1/2; height: 198px;"/>
   </a>
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mustafiz82&theme=github-dark&short_numbers=true" alt="GitHub Streak" style="width: 1/2%; height: 100%;"/>
