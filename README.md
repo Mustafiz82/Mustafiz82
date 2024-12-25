@@ -74,12 +74,12 @@
 
 <div style="display: flex;background:red; flex-direction: column; align-items: center; justify-content: center; width: 100vw; overflow: hidden;">
   <img src="https://github-profile-trophy.vercel.app/?username=mustafiz82&theme=matrix" alt="Trophies" style="width: 100%; height: auto;"/>
- <div style="display:flex "> 
+ <div style="display:flex"> 
   <a href="https://github.com/mustafiz82">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafiz82&layout=compact&theme=github_dark&title_color=39D353&text_color=39D353&icon_color=39D353&hide_border=true&bg_color=000000" alt="Top Languages" style="width: 1/2; height: 198px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafiz82&layout=compact&theme=github_dark&title_color=39D353&text_color=39D353&icon_color=39D353&hide_border=true&bg_color=000000" alt="Top Languages" style="width: 1/2; height: 300px;"/>
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mustafiz82&theme=github-dark&short_numbers=true" alt="GitHub Streak" style="width: 1/2%; height: 100%;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mustafiz82&theme=github-dark&short_numbers=true" alt="GitHub Streak" style="width: 1/2%; height: 300px;"/>
   </a>
  </div>
 </div>
