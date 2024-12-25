@@ -1,51 +1,34 @@
+<div style="width:100% ; min-height:100vh ; background: white">
+
 ![Alt text](<asset/banner_image.jpg>)
 
 
-
-## About Me
-- 🔭 I’m currently working on enhancing my skills in web development and exploring advanced features in NextJs.
-<!-- Gap -->
-- 🌱 I’m currently learning Laravel to improve my backend development skills .
-<!-- Gap -->
-- 💡 Fun Fact: I have a bookmark collection full of tools and resources that make frontend development a breeze!
-<!-- Gap -->
-- ❤️ I am passionate about Software Engineering
-<!-- Gap -->
-- 💻 I enjoy learning new things & sharing knowledge
-<!-- Gap -->
-- 📫 How to reach me: mustafiz8260@gmail.com
+<h1 align="center" >Hi 👋, I'm Mustafiz Rahman</h1>
+<h3 align="center" style="margin : -10px">A passionate Frontend developer</h3>
 
 
-## 🌐 Socials:
-<p align="center">
-<a href="https://www.linkedin.com/in/mustafiz-rahman-8482632a4">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
-<a href="https://www.facebook.com/mdmustafiz.rahman.988">
-    <img alt="Facebook" title="facebook" height="48" width="68" src="https://cdn.simpleicons.org/facebook"></a>
-    
-</p>
+<br>
+
+## 🌐 Connect With Me
+
+[![Website Badge](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=WebStorm&logoColor=61CE70)](https://gausalmunir.xyz/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=61CE70)](https://www.linkedin.com/in/gausalmunirtushar)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=61CE70)](https://facebook.com/GausAlMunirTusharProfile)
+[![Mail Badge](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=61CE70)](mailto:gausalmunirtushar@gmail.com)
 
 
 ## 💻 Technologies  I know :
 
 <!-- Gap -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,tailwind,js,react,firebase,nodejs,express,mongodb" />
-  </a>
+<p align="center" style="background:#e9f7ef;widht:100% ; padding:10px" >
+   <img src="https://skillicons.dev/icons?i=git,html,css,tailwind,js,react,next,firebase,redux,nodejs,laravel,express,mongodb" />
 </p>
 
 
-## 📊 GitHub Stats:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mustafiz82&theme=algolia&hide_border=true)](https://git.io/streak-stats)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mustafiz82&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mustafiz82&theme=react)
 
 
 
+<!-- 
 > # Recent Projects
 
 
@@ -77,3 +60,29 @@
   -  MongoDB
 - [Client Site](https://github.com/Mustafiz82/Assignment-10-TechCommetce-Client-side) - [Server Site](https://github.com/Mustafiz82/Assignment-10-TechCommetce-Server-side-) - [Live Demo]( https://techcommerce-18288.web.app/)
 
+
+
+
+ -->
+
+
+
+
+
+
+
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; width: 100vw; overflow: hidden;">
+  <img src="https://github-profile-trophy.vercel.app/?username=mustafiz82&theme=matrix" alt="Trophies" style="width: 100%; height: auto;"/>
+ <div style="display:flex"> 
+  <a href="https://github.com/mustafiz82">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafiz82&layout=compact&theme=github_dark&title_color=39D353&text_color=39D353&icon_color=39D353&hide_border=true&bg_color=000000" alt="Top Languages" style="width: 1/2; height: 100%;"/>
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mustafiz82&theme=github-dark&short_numbers=true" alt="GitHub Streak" style="width: 1/2%; height: 100%;"/>
+  </a>
+ </div>
+</div>
+
+
+</div>
