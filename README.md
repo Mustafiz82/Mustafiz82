@@ -1,88 +1,30 @@
-<div style="width:100% ; min-height:100vh ; background: black">
 
 ![Alt text](<asset/banner_image.jpg>)
 
 
 <h1 align="center" >Hi 👋, I'm Mustafiz Rahman</h1>
 <h3 align="center" style="margin : -10px">A passionate Frontend developer</h3>
-
-
 <br>
 
-## 🌐 Connect With Me
-
-[![Website Badge](https://img.shields.io/badge/Website-003300?style=for-the-badge&logo=WebStorm&logoColor=61CE70)](https://gausalmunir.xyz/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-003300?style=for-the-badge&logo=linkedin&logoColor=61CE70)](https://www.linkedin.com/in/gausalmunirtushar)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-003300?style=for-the-badge&logo=facebook&logoColor=61CE70)](https://facebook.com/GausAlMunirTusharProfile)
-[![Mail Badge](https://img.shields.io/badge/Gmail-003300?style=for-the-badge&logo=gmail&logoColor=61CE70)](mailto:gausalmunirtushar@gmail.com)
+# 💫 About Me:
+🔭 I’m currently working on enhancing my skills in web development and exploring advanced features in NextJs.<br><br>❤️ I am passionate about Software Engineering<br><br>💻 I enjoy learning new things & sharing knowledge<br><br>🌱 I’m currently learning Laravel to improve my backend development skills .<br><br>💡 Fun Fact: I have a bookmark collection full of tools and resources that make frontend development a breeze!<br><br>📫 How to reach me: mustafiz8260@gmail.com
 
 
-## 💻 Technologies  I know :
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdmustafiz.rahman.988) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdmustafiz8260) 
 
-<!-- Gap -->
-<p align="center" style="background:#e9f7ef;widht:100% ; padding:10px" >
-   <img src="https://skillicons.dev/icons?i=git,html,css,tailwind,js,react,next,firebase,redux,nodejs,laravel,express,mongodb" />
-</p>
+# 💻 Tech Stack:
+ ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mustafiz82&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mustafiz82&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafiz82&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mustafiz82&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
-<!-- 
-> # Recent Projects
-
-
-### 🏋️ A Forum Website
-
-- **Description:** User can create , delete post .make comments  view comments report comments and search post
-- **Technologies Used:**
-  -  React.js, Tailwind CSS
-  -  Express.js, Node.js
-  -  MongoDB
-- [Client Site](https://github.com/Mustafiz82/Assignment-12-TopicTrove-Clint-side-) - [Server Site](https://github.com/Mustafiz82/Assignment-12-TopicTrove-Server-sid) - [Live Demo]( https://topic-trove.web.app/)
-
-### 🏋️ A Study Website
-
-- **Description:** User can create , delete , and modify assignment .user can also give marks to other usets for assignment
-- **Technologies Used:**
-  -  React.js, Tailwind CSS
-  -  Express.js, Node.js
-  -  MongoDB
-- [Client Site](https://github.com/Mustafiz82/Assignment-11-StudyHub-Clint-side) - [Server Site](https://github.com/Mustafiz82/Assignment-11-StudyHub-Server-side-) - [Live Demo]( https://studyhub-f5ad8.web.app)
-
-
-### 🏋️ A Study Website
-
-- **Description:** User can create  account     can find mobile based on brand name view datils about selected phone
-- **Technologies Used:**
-  -  React.js, Tailwind CSS
-  -  Express.js, Node.js
-  -  MongoDB
-- [Client Site](https://github.com/Mustafiz82/Assignment-10-TechCommetce-Client-side) - [Server Site](https://github.com/Mustafiz82/Assignment-10-TechCommetce-Server-side-) - [Live Demo]( https://techcommerce-18288.web.app/)
-
-
-
-
- -->
-
-
-
-
-
-
-## 🏆 States & Trophies
-
-<div style="display: flex;background:red; flex-direction: column; align-items: center; justify-content: center; width: 100vw; overflow: hidden;">
-  <img src="https://github-profile-trophy.vercel.app/?username=mustafiz82&theme=matrix" alt="Trophies" style="width: 100%; height: auto;"/>
- <div style="display:flex"> 
-  <a href="https://github.com/mustafiz82">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafiz82&layout=compact&theme=github_dark&title_color=39D353&text_color=39D353&icon_color=39D353&hide_border=true&bg_color=000000" alt="Top Languages" style="width: 1/2; height: 300px;"/>
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mustafiz82&theme=github-dark&short_numbers=true" alt="GitHub Streak" style="width: 1/2%; height: 300px;"/>
-  </a>
- </div>
-</div>
-
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
