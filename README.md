@@ -5,14 +5,14 @@
 ## About Me
 - 🔭 I’m currently working on enhancing my skills in web development and exploring advanced features in NextJs.
 <!-- Gap -->
-- 🌱 I’m currently learning Laravel to improve my backend development skills and build full-stack applications more efficiently.
-<!-- Gap -->
-- 🚀 Future Aspirations: I'm eager to explore Web3 technologies and delve into blockchain development to create decentralized applications. 
+- 🌱 I’m currently learning Laravel to improve my backend development skills .
 <!-- Gap -->
 - 💡 Fun Fact: I have a bookmark collection full of tools and resources that make frontend development a breeze!
-
 <!-- Gap -->
-
+- ❤️ I am passionate about Software Engineering
+<!-- Gap -->
+- 💻 I enjoy learning new things & sharing knowledge
+<!-- Gap -->
 - 📫 How to reach me: mustafiz8260@gmail.com
 
 
