@@ -32,8 +32,9 @@
 
 
 [Backend Documentation](https://docs.google.com/document/d/1H2nazC9yTu62d5QpjTWdHevcKUp-q_hz3kcsGXbDfJY/edit?tab=t.0)
-[React Documentation]([https://docs.google.com/document/d/1H2nazC9yTu62d5QpjTWdHevcKUp-q_hz3kcsGXbDfJY/edit?tab=t.0](https://docs.google.com/document/d/1-8naaB5Ifp9nuKyWU5UdjRQw98qH1E3mSMj_ZRtRCjY/edit?tab=t.0#heading=h.mp5l0rrd9uo7))
-[Javasctipt]([https://docs.google.com/document/d/1H2nazC9yTu62d5QpjTWdHevcKUp-q_hz3kcsGXbDfJY/edit?tab=t.0](https://docs.google.com/document/d/1nNcq3kgX48LeCdKuVZ124akfn9cNKUWp9ZGJEORv6IQ/edit?tab=t.0#heading=h.lvygdi6bj1m7))
+[React Documentation](https://docs.google.com/document/d/1-8naaB5Ifp9nuKyWU5UdjRQw98qH1E3mSMj_ZRtRCjY/edit?tab=t.0#heading=h.mp5l0rrd9uo7)
+[Javasctipt](https://docs.google.com/document/d/1nNcq3kgX48LeCdKuVZ124akfn9cNKUWp9ZGJEORv6IQ/edit?tab=t.0#heading=h.lvygdi6bj1m7)
+
 
 
 
