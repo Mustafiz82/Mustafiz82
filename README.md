@@ -1,7 +1,7 @@
 
 ![Alt text](<asset/banner_image.jpg>)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=mustafiz82)
 <h1 align="center" >Hi 👋, I'm Mustafiz Rahman</h1>
 <h3 align="center" style="margin : -10px">A passionate Frontend developer</h3>
 <br>
